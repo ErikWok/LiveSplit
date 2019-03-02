@@ -5386,4 +5386,14 @@
     <Description>Auto Splitting and Auto Start/Reset are available (By Voxelse)</Description>
     <Website>https://github.com/Voxelse/ASLScripts/tree/master/Livesplit.KirbyDreamLand</Website>
   </AutoSplitter>
+  <AutoSplitter>
+    <Games>
+      <Game>Deponia</Game>
+    </Games>
+    <URLs>
+      <URL>https://raw.githubusercontent.com/ErikWok/Deponia-asl/master/Deponia.asl</URL>
+    </URLs>
+    <Type>Script</Type>
+    <Description>Automatic start/split (by Solid)</Description>
+  </AutoSplitter>
 </AutoSplitters>
